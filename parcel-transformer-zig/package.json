@@ -1,0 +1,14 @@
+{
+	"name": "parcel-transformer-zig",
+	"version": "0.1.0",
+	"license": "MIT",
+	"main": "index.js",
+	"dependencies": {
+		"@parcel/plugin": "^2.0.0",
+		"execa": "^5.0.0"
+	},
+	"engines": {
+		"node": ">=12",
+		"parcel": "^2.0.0"
+	}
+}
